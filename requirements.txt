@@ -1,0 +1,5 @@
+google-auth
+requests
+functions-framework
+openai
+Flask
